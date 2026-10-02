@@ -7,6 +7,14 @@ def div(a,b):
 
 print(div(99,3))
 
+
+print("Funciones del Frontend")
+def despliegue():
+    print("Esta seccion esta dedicada a la visualizacion")
+
+print(despliegue)
+
+
 print("Funciones para el backend")
 def show():
     print("Parte funcional del backend")
